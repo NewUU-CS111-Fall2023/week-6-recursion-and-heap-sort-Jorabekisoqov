@@ -23,3 +23,6 @@ int a;
 cin>>a;
    CheckIfPrime(a,checker);
 }
+
+
+///for the worst cases it will run until sqrt(a)  so complexity still O(n)
