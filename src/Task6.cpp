@@ -34,3 +34,7 @@ int main() {
    cout << secondLargestElement << endl;
    return 0;
 }
+
+
+
+///time complexity is O(n)
