@@ -37,4 +37,4 @@ int main() {
 
 
 
-///time complexity is O(log n)
+///time complexity is O(n)
