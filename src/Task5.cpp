@@ -23,3 +23,6 @@ int main() {
    int len = word.length();
     isPalindrome(word, 0, len - 1);
 }
+
+
+/// time complexity O(n)
