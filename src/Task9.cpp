@@ -77,3 +77,9 @@ int main() {
 
    return 0;
 }
+
+
+
+/// for the build_max_heap O(n)
+/// heapify  O(logn)
+// overall (heap) O(nlogn)
