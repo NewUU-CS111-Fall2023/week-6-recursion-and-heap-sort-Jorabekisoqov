@@ -19,3 +19,5 @@ int main() {
    SumOfDigits(a, sum);
    return 0;
 }
+
+////time complexity O(n)=> n is number of digits  and it depends on how large number is , but smaller numbers time compexity is O(1) constant
