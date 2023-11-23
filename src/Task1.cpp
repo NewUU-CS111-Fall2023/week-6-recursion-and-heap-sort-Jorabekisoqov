@@ -22,7 +22,8 @@ void Decsending(int a,int b){
 int main(){
     int a;
     int b;
-    cin>>a>>b;
+    cin>>a;
+    cin>>b;
     if(a>b) {
         Ascending(a, b);
     }
