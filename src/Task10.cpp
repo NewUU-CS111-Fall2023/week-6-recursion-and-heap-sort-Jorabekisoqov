@@ -1,4 +1,5 @@
 
+
 #include <iostream>
 #include <vector>
 #include <algorithm>
@@ -38,3 +39,6 @@ int main() {
 
    return 0;
 }
+
+
+/// for the worst case , when all of them will be vowels so complexity is O(nlogn)
