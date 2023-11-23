@@ -30,3 +30,7 @@ int main(){
         Decsending(a,b);
     }
 }
+
+
+
+//// time complexity is O(n) 
