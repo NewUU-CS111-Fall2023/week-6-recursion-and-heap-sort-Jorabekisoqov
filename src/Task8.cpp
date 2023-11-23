@@ -102,3 +102,6 @@ int main() {
    return 0;
 }
 
+
+
+/// for karatsuba algorithm time complexity is O(n^log 2 3) or O(3^log 2 n)
